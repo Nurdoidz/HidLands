@@ -1,0 +1,997 @@
+# Project Progress
+
+| Category               | Progress Percent |
+|------------------------|------------------|
+| Textures - Blocks      | 0.00%            |
+| Textures - Color Map   | 0.00%            |
+| Textures - Effects     | 0.00%            |
+| Textures - Entities    | 0.00%            |
+| Textures - Environment | 0.00%            |
+| Textures - Font        | 0.00%            |
+| Textures - GUI         | 0.00%            |
+| Textures - Items       | 0.00%            |
+| Textures - Map         | 0.00%            |
+| Textures - Misc        | 0.00%            |
+| Textures - Mob Effect  | 0.00%            |
+| Textures - Models      | 0.00%            |
+| Textures - Paintings   | 0.00%            |
+| Textures - Particles   | 0.00%            |
+| Grand Total            | 0.00%            |
+
+# Detailed
+
+| Category               | Name                               | Progress |
+|------------------------|------------------------------------|----------|
+| Textures - Blocks      | Acacia Door                        | 0        |
+| Textures - Blocks      | Acacia Leaves                      | 0        |
+| Textures - Blocks      | Acacia Log                         | 0        |
+| Textures - Blocks      | Acacia Planks                      | 0        |
+| Textures - Blocks      | Acacia Sapling                     | 0        |
+| Textures - Blocks      | Acacia Trapdoor                    | 0        |
+| Textures - Blocks      | Activator Rail                     | 0        |
+| Textures - Blocks      | Allium                             | 0        |
+| Textures - Blocks      | Ancient Debris                     | 0        |
+| Textures - Blocks      | Andesite                           | 0        |
+| Textures - Blocks      | Andesite Polished                  | 0        |
+| Textures - Blocks      | Anvil                              | 0        |
+| Textures - Blocks      | Azure Bluet                        | 0        |
+| Textures - Blocks      | Bamboo                             | 0        |
+| Textures - Blocks      | Barrel                             | 0        |
+| Textures - Blocks      | Basalt                             | 0        |
+| Textures - Blocks      | Basalt Polished                    | 0        |
+| Textures - Blocks      | Beacon                             | 0        |
+| Textures - Blocks      | Bedrock                            | 0        |
+| Textures - Blocks      | Bee Nest                           | 0        |
+| Textures - Blocks      | Beehive                            | 0        |
+| Textures - Blocks      | Beetroots                          | 0        |
+| Textures - Blocks      | Bell                               | 0        |
+| Textures - Blocks      | Birch Door                         | 0        |
+| Textures - Blocks      | Birch Leaves                       | 0        |
+| Textures - Blocks      | Birch Log                          | 0        |
+| Textures - Blocks      | Birch Planks                       | 0        |
+| Textures - Blocks      | Birch Sapling                      | 0        |
+| Textures - Blocks      | Birch Trapdoor                     | 0        |
+| Textures - Blocks      | Blackstone                         | 0        |
+| Textures - Blocks      | Blackstone Bricks Polished         | 0        |
+| Textures - Blocks      | Blackstone Bricks Polished Cracked | 0        |
+| Textures - Blocks      | Blackstone Polished                | 0        |
+| Textures - Blocks      | Blackstone Polished Chiseled       | 0        |
+| Textures - Blocks      | Blast Furnace                      | 0        |
+| Textures - Blocks      | Blue Ice                           | 0        |
+| Textures - Blocks      | Blue Orchid                        | 0        |
+| Textures - Blocks      | Bone Block                         | 0        |
+| Textures - Blocks      | Bookshelf                          | 0        |
+| Textures - Blocks      | Brain Coral                        | 0        |
+| Textures - Blocks      | Brewing Stand                      | 0        |
+| Textures - Blocks      | Bricks                             | 0        |
+| Textures - Blocks      | Brown Mushroom                     | 0        |
+| Textures - Blocks      | Brown Mushroom Block               | 0        |
+| Textures - Blocks      | Bubble Coral                       | 0        |
+| Textures - Blocks      | Cactus                             | 0        |
+| Textures - Blocks      | Cake                               | 0        |
+| Textures - Blocks      | Campfire                           | 0        |
+| Textures - Blocks      | Carrots                            | 0        |
+| Textures - Blocks      | Cartography Table                  | 0        |
+| Textures - Blocks      | Cauldron                           | 0        |
+| Textures - Blocks      | Chain                              | 0        |
+| Textures - Blocks      | Chorus Plant                       | 0        |
+| Textures - Blocks      | Clay                               | 0        |
+| Textures - Blocks      | Coal Block                         | 0        |
+| Textures - Blocks      | Coal Ore                           | 0        |
+| Textures - Blocks      | Coarse Dirt                        | 0        |
+| Textures - Blocks      | Cobblestone                        | 0        |
+| Textures - Blocks      | Cobblestone Mossy                  | 0        |
+| Textures - Blocks      | Cobweb                             | 0        |
+| Textures - Blocks      | Cocoa                              | 0        |
+| Textures - Blocks      | Command Blocks                     | 0        |
+| Textures - Blocks      | Comparator                         | 0        |
+| Textures - Blocks      | Composter                          | 0        |
+| Textures - Blocks      | Concrete Black                     | 0        |
+| Textures - Blocks      | Concrete Blue                      | 0        |
+| Textures - Blocks      | Concrete Brown                     | 0        |
+| Textures - Blocks      | Concrete Cyan                      | 0        |
+| Textures - Blocks      | Concrete Gray                      | 0        |
+| Textures - Blocks      | Concrete Green                     | 0        |
+| Textures - Blocks      | Concrete Light Blue                | 0        |
+| Textures - Blocks      | Concrete Light Gray                | 0        |
+| Textures - Blocks      | Concrete Lime                      | 0        |
+| Textures - Blocks      | Concrete Magenta                   | 0        |
+| Textures - Blocks      | Concrete Orange                    | 0        |
+| Textures - Blocks      | Concrete Pink                      | 0        |
+| Textures - Blocks      | Concrete Powder Black              | 0        |
+| Textures - Blocks      | Concrete Powder Blue               | 0        |
+| Textures - Blocks      | Concrete Powder Brown              | 0        |
+| Textures - Blocks      | Concrete Powder Cyan               | 0        |
+| Textures - Blocks      | Concrete Powder Gray               | 0        |
+| Textures - Blocks      | Concrete Powder Green              | 0        |
+| Textures - Blocks      | Concrete Powder Light Blue         | 0        |
+| Textures - Blocks      | Concrete Powder Light Gray         | 0        |
+| Textures - Blocks      | Concrete Powder Lime               | 0        |
+| Textures - Blocks      | Concrete Powder Magenta            | 0        |
+| Textures - Blocks      | Concrete Powder Orange             | 0        |
+| Textures - Blocks      | Concrete Powder Pink               | 0        |
+| Textures - Blocks      | Concrete Powder Purple             | 0        |
+| Textures - Blocks      | Concrete Powder Red                | 0        |
+| Textures - Blocks      | Concrete Powder White              | 0        |
+| Textures - Blocks      | Concrete Powder Yellow             | 0        |
+| Textures - Blocks      | Concrete Purple                    | 0        |
+| Textures - Blocks      | Concrete Red                       | 0        |
+| Textures - Blocks      | Concrete White                     | 0        |
+| Textures - Blocks      | Concrete Yellow                    | 0        |
+| Textures - Blocks      | Conduit                            | 0        |
+| Textures - Blocks      | Cornflower                         | 0        |
+| Textures - Blocks      | Crafting Table                     | 0        |
+| Textures - Blocks      | Crimson Door                       | 0        |
+| Textures - Blocks      | Crimson Fungus                     | 0        |
+| Textures - Blocks      | Crimson Nylium                     | 0        |
+| Textures - Blocks      | Crimson Planks                     | 0        |
+| Textures - Blocks      | Crimson Roots                      | 0        |
+| Textures - Blocks      | Crimson Roots Pot                  | 0        |
+| Textures - Blocks      | Crimson Stem                       | 0        |
+| Textures - Blocks      | Crimson Trapdoor                   | 0        |
+| Textures - Blocks      | Crying Obsidian                    | 0        |
+| Textures - Blocks      | Dandelion                          | 0        |
+| Textures - Blocks      | Dark Oak Door                      | 0        |
+| Textures - Blocks      | Dark Oak Leaves                    | 0        |
+| Textures - Blocks      | Dark Oak Log                       | 0        |
+| Textures - Blocks      | Dark Oak Planks                    | 0        |
+| Textures - Blocks      | Dark Oak Sapling                   | 0        |
+| Textures - Blocks      | Dark Oak Trapdoor                  | 0        |
+| Textures - Blocks      | Dark Prismarine                    | 0        |
+| Textures - Blocks      | Daylight Detector                  | 0        |
+| Textures - Blocks      | Dead Brain Coral                   | 0        |
+| Textures - Blocks      | Dead Brain Coral Block             | 0        |
+| Textures - Blocks      | Dead Brain Coral Fan               | 0        |
+| Textures - Blocks      | Dead Bubble Coral                  | 0        |
+| Textures - Blocks      | Dead Bubble Coral Block            | 0        |
+| Textures - Blocks      | Dead Bubble Coral Fan              | 0        |
+| Textures - Blocks      | Dead Bush                          | 0        |
+| Textures - Blocks      | Dead Fire Coral                    | 0        |
+| Textures - Blocks      | Dead Fire Coral Block              | 0        |
+| Textures - Blocks      | Dead Fire Coral Fan                | 0        |
+| Textures - Blocks      | Dead Horn Coral                    | 0        |
+| Textures - Blocks      | Dead Horn Coral Block              | 0        |
+| Textures - Blocks      | Dead Horn Coral Fan                | 0        |
+| Textures - Blocks      | Dead Tube Coral                    | 0        |
+| Textures - Blocks      | Dead Tube Coral Block              | 0        |
+| Textures - Blocks      | Dead Tube Coral Fan                | 0        |
+| Textures - Blocks      | Destroy Stages                     | 0        |
+| Textures - Blocks      | Detector Rail                      | 0        |
+| Textures - Blocks      | Diamond Block                      | 0        |
+| Textures - Blocks      | Diamond Ore                        | 0        |
+| Textures - Blocks      | Diorite                            | 0        |
+| Textures - Blocks      | Diorite Polished                   | 0        |
+| Textures - Blocks      | Dirt                               | 0        |
+| Textures - Blocks      | Dispenser                          | 0        |
+| Textures - Blocks      | Dragon Egg                         | 0        |
+| Textures - Blocks      | Dried Kelp                         | 0        |
+| Textures - Blocks      | Dropper                            | 0        |
+| Textures - Blocks      | Emerald Block                      | 0        |
+| Textures - Blocks      | Emerald Ore                        | 0        |
+| Textures - Blocks      | Enchanting Table                   | 0        |
+| Textures - Blocks      | End Portal Frame                   | 0        |
+| Textures - Blocks      | End Rod                            | 0        |
+| Textures - Blocks      | End Stone                          | 0        |
+| Textures - Blocks      | End Stone Bricks                   | 0        |
+| Textures - Blocks      | Farmland                           | 0        |
+| Textures - Blocks      | Fern                               | 0        |
+| Textures - Blocks      | Fire                               | 0        |
+| Textures - Blocks      | Fire Coral                         | 0        |
+| Textures - Blocks      | Fire Coral Block                   | 0        |
+| Textures - Blocks      | Fire Coral Fan                     | 0        |
+| Textures - Blocks      | Fletching Table                    | 0        |
+| Textures - Blocks      | Flower Pot                         | 0        |
+| Textures - Blocks      | Frosted Ice                        | 0        |
+| Textures - Blocks      | Furnace                            | 0        |
+| Textures - Blocks      | Gilded Blackstone                  | 0        |
+| Textures - Blocks      | Glass                              | 0        |
+| Textures - Blocks      | Glass Pane                         | 0        |
+| Textures - Blocks      | Glazed Terracotta Black            | 0        |
+| Textures - Blocks      | Glazed Terracotta Blue             | 0        |
+| Textures - Blocks      | Glazed Terracotta Brown            | 0        |
+| Textures - Blocks      | Glazed Terracotta Cyan             | 0        |
+| Textures - Blocks      | Glazed Terracotta Gray             | 0        |
+| Textures - Blocks      | Glazed Terracotta Green            | 0        |
+| Textures - Blocks      | Glazed Terracotta Light Blue       | 0        |
+| Textures - Blocks      | Glazed Terracotta Light Gray       | 0        |
+| Textures - Blocks      | Glazed Terracotta Lime             | 0        |
+| Textures - Blocks      | Glazed Terracotta Magenta          | 0        |
+| Textures - Blocks      | Glazed Terracotta Orange           | 0        |
+| Textures - Blocks      | Glazed Terracotta Pink             | 0        |
+| Textures - Blocks      | Glazed Terracotta Purple           | 0        |
+| Textures - Blocks      | Glazed Terracotta Red              | 0        |
+| Textures - Blocks      | Glazed Terracotta White            | 0        |
+| Textures - Blocks      | Glazed Terracotta Yellow           | 0        |
+| Textures - Blocks      | Glowstone                          | 0        |
+| Textures - Blocks      | Gold Block                         | 0        |
+| Textures - Blocks      | Gold Ore                           | 0        |
+| Textures - Blocks      | Granite                            | 0        |
+| Textures - Blocks      | Granite Polished                   | 0        |
+| Textures - Blocks      | Grass                              | 0        |
+| Textures - Blocks      | Grass Block                        | 0        |
+| Textures - Blocks      | Grass Block Snow                   | 0        |
+| Textures - Blocks      | Grass Path                         | 0        |
+| Textures - Blocks      | Gravel                             | 0        |
+| Textures - Blocks      | Grindstone                         | 0        |
+| Textures - Blocks      | Hay Block                          | 0        |
+| Textures - Blocks      | Honey Block                        | 0        |
+| Textures - Blocks      | Honeycomb Block                    | 0        |
+| Textures - Blocks      | Hopper                             | 0        |
+| Textures - Blocks      | Horn Coral                         | 0        |
+| Textures - Blocks      | Horn Coral Block                   | 0        |
+| Textures - Blocks      | Horn Coral Fan                     | 0        |
+| Textures - Blocks      | Ice                                | 0        |
+| Textures - Blocks      | Iron Bars                          | 0        |
+| Textures - Blocks      | Iron Block                         | 0        |
+| Textures - Blocks      | Iron Door                          | 0        |
+| Textures - Blocks      | Iron Ore                           | 0        |
+| Textures - Blocks      | Iron Trapdoor                      | 0        |
+| Textures - Blocks      | Item Frame                         | 0        |
+| Textures - Blocks      | Jack O Lantern                     | 0        |
+| Textures - Blocks      | Jigsaw                             | 0        |
+| Textures - Blocks      | Jukebox                            | 0        |
+| Textures - Blocks      | Jungle Door                        | 0        |
+| Textures - Blocks      | Jungle Leaves                      | 0        |
+| Textures - Blocks      | Jungle Log                         | 0        |
+| Textures - Blocks      | Jungle Planks                      | 0        |
+| Textures - Blocks      | Jungle Sapling                     | 0        |
+| Textures - Blocks      | Jungle Trapdoor                    | 0        |
+| Textures - Blocks      | Kelp                               | 0        |
+| Textures - Blocks      | Ladder                             | 0        |
+| Textures - Blocks      | Lantern                            | 0        |
+| Textures - Blocks      | Lapis Block                        | 0        |
+| Textures - Blocks      | Lapis Ore                          | 0        |
+| Textures - Blocks      | Large Fern                         | 0        |
+| Textures - Blocks      | Lava                               | 0        |
+| Textures - Blocks      | Lectern                            | 0        |
+| Textures - Blocks      | Lever                              | 0        |
+| Textures - Blocks      | Lilac                              | 0        |
+| Textures - Blocks      | Lily Of The Valley                 | 0        |
+| Textures - Blocks      | Lily Pad                           | 0        |
+| Textures - Blocks      | Lodestone                          | 0        |
+| Textures - Blocks      | Loom                               | 0        |
+| Textures - Blocks      | Melon                              | 0        |
+| Textures - Blocks      | Mushroom Block                     | 0        |
+| Textures - Blocks      | Mycelium                           | 0        |
+| Textures - Blocks      | Nether Bricks                      | 0        |
+| Textures - Blocks      | Nether Bricks Chiseled             | 0        |
+| Textures - Blocks      | Nether Bricks Cracked              | 0        |
+| Textures - Blocks      | Nether Bricks Red                  | 0        |
+| Textures - Blocks      | Nether Gold Ore                    | 0        |
+| Textures - Blocks      | Nether Portal                      | 0        |
+| Textures - Blocks      | Nether Quartz Ore                  | 0        |
+| Textures - Blocks      | Nether Sprouts                     | 0        |
+| Textures - Blocks      | Nether Wart                        | 0        |
+| Textures - Blocks      | Nether Wart Block                  | 0        |
+| Textures - Blocks      | Netherite Block                    | 0        |
+| Textures - Blocks      | Netherrack                         | 0        |
+| Textures - Blocks      | Note Block                         | 0        |
+| Textures - Blocks      | Oak Door                           | 0        |
+| Textures - Blocks      | Oak Leaves                         | 0        |
+| Textures - Blocks      | Oak Log                            | 0        |
+| Textures - Blocks      | Oak Planks                         | 0        |
+| Textures - Blocks      | Oak Sapling                        | 0        |
+| Textures - Blocks      | Oak Trapdoor                       | 0        |
+| Textures - Blocks      | Observer                           | 0        |
+| Textures - Blocks      | Obsidian                           | 0        |
+| Textures - Blocks      | Orange Tulip                       | 0        |
+| Textures - Blocks      | Oxeye Daisy                        | 0        |
+| Textures - Blocks      | Packed Ice                         | 0        |
+| Textures - Blocks      | Peony                              | 0        |
+| Textures - Blocks      | Pink Tulip                         | 0        |
+| Textures - Blocks      | Piston                             | 0        |
+| Textures - Blocks      | Podzol                             | 0        |
+| Textures - Blocks      | Poppy                              | 0        |
+| Textures - Blocks      | Potatoes                           | 0        |
+| Textures - Blocks      | Powered Rail                       | 0        |
+| Textures - Blocks      | Prismarine                         | 0        |
+| Textures - Blocks      | Prismarine Bricks                  | 0        |
+| Textures - Blocks      | Pumpkin                            | 0        |
+| Textures - Blocks      | Purpur Block                       | 0        |
+| Textures - Blocks      | Purpur Pillar                      | 0        |
+| Textures - Blocks      | Quartz Block                       | 0        |
+| Textures - Blocks      | Quartz Block Chiseled              | 0        |
+| Textures - Blocks      | Quartz Bricks                      | 0        |
+| Textures - Blocks      | Quartz Pillar                      | 0        |
+| Textures - Blocks      | Rail                               | 0        |
+| Textures - Blocks      | Red Mushroom                       | 0        |
+| Textures - Blocks      | Red Mushroom Block                 | 0        |
+| Textures - Blocks      | Red Tulip                          | 0        |
+| Textures - Blocks      | Redstone Block                     | 0        |
+| Textures - Blocks      | Redstone Dust                      | 0        |
+| Textures - Blocks      | Redstone Lamp                      | 0        |
+| Textures - Blocks      | Redstone Ore                       | 0        |
+| Textures - Blocks      | Redstone Torch                     | 0        |
+| Textures - Blocks      | Repeater                           | 0        |
+| Textures - Blocks      | Rose Bush                          | 0        |
+| Textures - Blocks      | Sand                               | 0        |
+| Textures - Blocks      | Sand Red                           | 0        |
+| Textures - Blocks      | Sandstone                          | 0        |
+| Textures - Blocks      | Sandstone Chiseled                 | 0        |
+| Textures - Blocks      | Sandstone Cut                      | 0        |
+| Textures - Blocks      | Sandstone Red                      | 0        |
+| Textures - Blocks      | Sandstone Red Chiseled             | 0        |
+| Textures - Blocks      | Sandstone Red Cut                  | 0        |
+| Textures - Blocks      | Scaffolding                        | 0        |
+| Textures - Blocks      | Sea Lantern                        | 0        |
+| Textures - Blocks      | Sea Pickle                         | 0        |
+| Textures - Blocks      | Seagrass                           | 0        |
+| Textures - Blocks      | Shroomlight                        | 0        |
+| Textures - Blocks      | Shulker Box                        | 0        |
+| Textures - Blocks      | Shulker Box Black                  | 0        |
+| Textures - Blocks      | Shulker Box Blue                   | 0        |
+| Textures - Blocks      | Shulker Box Brown                  | 0        |
+| Textures - Blocks      | Shulker Box Cyan                   | 0        |
+| Textures - Blocks      | Shulker Box Gray                   | 0        |
+| Textures - Blocks      | Shulker Box Green                  | 0        |
+| Textures - Blocks      | Shulker Box Light Blue             | 0        |
+| Textures - Blocks      | Shulker Box Light Gray             | 0        |
+| Textures - Blocks      | Shulker Box Lime                   | 0        |
+| Textures - Blocks      | Shulker Box Magenta                | 0        |
+| Textures - Blocks      | Shulker Box Orange                 | 0        |
+| Textures - Blocks      | Shulker Box Pink                   | 0        |
+| Textures - Blocks      | Shulker Box Purple                 | 0        |
+| Textures - Blocks      | Shulker Box Red                    | 0        |
+| Textures - Blocks      | Shulker Box White                  | 0        |
+| Textures - Blocks      | Shulker Box Yellow                 | 0        |
+| Textures - Blocks      | Slime Block                        | 0        |
+| Textures - Blocks      | Smithing Table                     | 0        |
+| Textures - Blocks      | Smoker                             | 0        |
+| Textures - Blocks      | Smooth Stone                       | 0        |
+| Textures - Blocks      | Smooth Stone Slab                  | 0        |
+| Textures - Blocks      | Snow                               | 0        |
+| Textures - Blocks      | Soul Campfire                      | 0        |
+| Textures - Blocks      | Soul Fire                          | 0        |
+| Textures - Blocks      | Soul Lantern                       | 0        |
+| Textures - Blocks      | Soul Sand                          | 0        |
+| Textures - Blocks      | Soul Soil                          | 0        |
+| Textures - Blocks      | Soul Torch                         | 0        |
+| Textures - Blocks      | Spawner                            | 0        |
+| Textures - Blocks      | Sponge                             | 0        |
+| Textures - Blocks      | Spruce Door Bottom                 | 0        |
+| Textures - Blocks      | Spruce Leaves                      | 0        |
+| Textures - Blocks      | Spruce Log                         | 0        |
+| Textures - Blocks      | Spruce Planks                      | 0        |
+| Textures - Blocks      | Spruce Sapling                     | 0        |
+| Textures - Blocks      | Spruce Trapdoor                    | 0        |
+| Textures - Blocks      | Stained Glass Black                | 0        |
+| Textures - Blocks      | Stained Glass Blue                 | 0        |
+| Textures - Blocks      | Stained Glass Brown                | 0        |
+| Textures - Blocks      | Stained Glass Cyan                 | 0        |
+| Textures - Blocks      | Stained Glass Gray                 | 0        |
+| Textures - Blocks      | Stained Glass Green                | 0        |
+| Textures - Blocks      | Stained Glass Light Blue           | 0        |
+| Textures - Blocks      | Stained Glass Light Gray           | 0        |
+| Textures - Blocks      | Stained Glass Lime                 | 0        |
+| Textures - Blocks      | Stained Glass Magenta              | 0        |
+| Textures - Blocks      | Stained Glass Orange               | 0        |
+| Textures - Blocks      | Stained Glass Pane Black           | 0        |
+| Textures - Blocks      | Stained Glass Pane Blue            | 0        |
+| Textures - Blocks      | Stained Glass Pane Brown           | 0        |
+| Textures - Blocks      | Stained Glass Pane Cyan            | 0        |
+| Textures - Blocks      | Stained Glass Pane Gray            | 0        |
+| Textures - Blocks      | Stained Glass Pane Green           | 0        |
+| Textures - Blocks      | Stained Glass Pane Light Blue      | 0        |
+| Textures - Blocks      | Stained Glass Pane Light Gray      | 0        |
+| Textures - Blocks      | Stained Glass Pane Lime            | 0        |
+| Textures - Blocks      | Stained Glass Pane Magenta         | 0        |
+| Textures - Blocks      | Stained Glass Pane Orange          | 0        |
+| Textures - Blocks      | Stained Glass Pane Pink            | 0        |
+| Textures - Blocks      | Stained Glass Pane Purple          | 0        |
+| Textures - Blocks      | Stained Glass Pane Red             | 0        |
+| Textures - Blocks      | Stained Glass Pane White           | 0        |
+| Textures - Blocks      | Stained Glass Pane Yellow          | 0        |
+| Textures - Blocks      | Stained Glass Pink                 | 0        |
+| Textures - Blocks      | Stained Glass Purple               | 0        |
+| Textures - Blocks      | Stained Glass Red                  | 0        |
+| Textures - Blocks      | Stained Glass White                | 0        |
+| Textures - Blocks      | Stained Glass Yellow               | 0        |
+| Textures - Blocks      | Stone                              | 0        |
+| Textures - Blocks      | Stone Bricks                       | 0        |
+| Textures - Blocks      | Stone Bricks Chiseled              | 0        |
+| Textures - Blocks      | Stone Bricks Cracked               | 0        |
+| Textures - Blocks      | Stone Bricks Mossy                 | 0        |
+| Textures - Blocks      | Stonecutter                        | 0        |
+| Textures - Blocks      | Sugar Cane                         | 0        |
+| Textures - Blocks      | Sunflower                          | 0        |
+| Textures - Blocks      | Sweet Berry Bush                   | 0        |
+| Textures - Blocks      | Tall Grass                         | 0        |
+| Textures - Blocks      | Tall Seagrass                      | 0        |
+| Textures - Blocks      | Target                             | 0        |
+| Textures - Blocks      | Terracotta                         | 0        |
+| Textures - Blocks      | Terracotta Black                   | 0        |
+| Textures - Blocks      | Terracotta Blue                    | 0        |
+| Textures - Blocks      | Terracotta Brown                   | 0        |
+| Textures - Blocks      | Terracotta Cyan                    | 0        |
+| Textures - Blocks      | Terracotta Gray                    | 0        |
+| Textures - Blocks      | Terracotta Green                   | 0        |
+| Textures - Blocks      | Terracotta Light Blue              | 0        |
+| Textures - Blocks      | Terracotta Light Gray              | 0        |
+| Textures - Blocks      | Terracotta Lime                    | 0        |
+| Textures - Blocks      | Terracotta Magenta                 | 0        |
+| Textures - Blocks      | Terracotta Orange                  | 0        |
+| Textures - Blocks      | Terracotta Pink                    | 0        |
+| Textures - Blocks      | Terracotta Purple                  | 0        |
+| Textures - Blocks      | Terracotta Red                     | 0        |
+| Textures - Blocks      | Terracotta White                   | 0        |
+| Textures - Blocks      | Terracotta Yellow                  | 0        |
+| Textures - Blocks      | TNT                                | 0        |
+| Textures - Blocks      | Torch                              | 0        |
+| Textures - Blocks      | Tripwire                           | 0        |
+| Textures - Blocks      | Tripwire Hook                      | 0        |
+| Textures - Blocks      | Tube Coral                         | 0        |
+| Textures - Blocks      | Tube Coral Block                   | 0        |
+| Textures - Blocks      | Tube Coral Fan                     | 0        |
+| Textures - Blocks      | Turtle Egg                         | 0        |
+| Textures - Blocks      | Twisting Vines                     | 0        |
+| Textures - Blocks      | Twisting Vines Plant               | 0        |
+| Textures - Blocks      | Vine                               | 0        |
+| Textures - Blocks      | Warped Door                        | 0        |
+| Textures - Blocks      | Warped Fungus                      | 0        |
+| Textures - Blocks      | Warped Nylium                      | 0        |
+| Textures - Blocks      | Warped Planks                      | 0        |
+| Textures - Blocks      | Warped Roots                       | 0        |
+| Textures - Blocks      | Warped Roots Pot                   | 0        |
+| Textures - Blocks      | Warped Stem                        | 0        |
+| Textures - Blocks      | Warped Stem                        | 0        |
+| Textures - Blocks      | Warped Trapdoor                    | 0        |
+| Textures - Blocks      | Warped Wart Block                  | 0        |
+| Textures - Blocks      | Water                              | 0        |
+| Textures - Blocks      | Weeping Vines                      | 0        |
+| Textures - Blocks      | Weeping Vines Plant                | 0        |
+| Textures - Blocks      | Wet Sponge                         | 0        |
+| Textures - Blocks      | Wheat                              | 0        |
+| Textures - Blocks      | White Tulip                        | 0        |
+| Textures - Blocks      | Wither Rose                        | 0        |
+| Textures - Blocks      | Wool Black                         | 0        |
+| Textures - Blocks      | Wool Blue                          | 0        |
+| Textures - Blocks      | Wool Brown                         | 0        |
+| Textures - Blocks      | Wool Cyan                          | 0        |
+| Textures - Blocks      | Wool Gray                          | 0        |
+| Textures - Blocks      | Wool Green                         | 0        |
+| Textures - Blocks      | Wool Light Blue                    | 0        |
+| Textures - Blocks      | Wool Light Gray                    | 0        |
+| Textures - Blocks      | Wool Lime                          | 0        |
+| Textures - Blocks      | Wool Magenta                       | 0        |
+| Textures - Blocks      | Wool Orange                        | 0        |
+| Textures - Blocks      | Wool Pink                          | 0        |
+| Textures - Blocks      | Wool Purple                        | 0        |
+| Textures - Blocks      | Wool Red                           | 0        |
+| Textures - Blocks      | Wool White                         | 0        |
+| Textures - Blocks      | Wool Yellow                        | 0        |
+| Textures - Color Map   | Foliage                            | 0        |
+| Textures - Color Map   | Grass                              | 0        |
+| Textures - Effects     | Dither                             | 0        |
+| Textures - Entities    | Armor Stand                        | 0        |
+| Textures - Entities    | Arrow                              | 0        |
+| Textures - Entities    | Banner                             | 0        |
+| Textures - Entities    | Bat                                | 0        |
+| Textures - Entities    | Beacon Beam                        | 0        |
+| Textures - Entities    | Bear                               | 0        |
+| Textures - Entities    | Bed                                | 0        |
+| Textures - Entities    | Bee                                | 0        |
+| Textures - Entities    | Bell                               | 0        |
+| Textures - Entities    | Blaze                              | 0        |
+| Textures - Entities    | Boat                               | 0        |
+| Textures - Entities    | Cat                                | 0        |
+| Textures - Entities    | Chest                              | 0        |
+| Textures - Entities    | Chicken                            | 0        |
+| Textures - Entities    | Conduit                            | 0        |
+| Textures - Entities    | Cow                                | 0        |
+| Textures - Entities    | Creeper                            | 0        |
+| Textures - Entities    | Dolphin                            | 0        |
+| Textures - Entities    | Elytra                             | 0        |
+| Textures - Entities    | Enchanting Table Book              | 0        |
+| Textures - Entities    | End Crystal                        | 0        |
+| Textures - Entities    | End Gateway Beam                   | 0        |
+| Textures - Entities    | End Portal Frame                   | 0        |
+| Textures - Entities    | Ender Dragon                       | 0        |
+| Textures - Entities    | Enderman                           | 0        |
+| Textures - Entities    | Endermite                          | 0        |
+| Textures - Entities    | Experience Orb                     | 0        |
+| Textures - Entities    | Fish                               | 0        |
+| Textures - Entities    | Fishing Hook                       | 0        |
+| Textures - Entities    | Fox                                | 0        |
+| Textures - Entities    | Ghast                              | 0        |
+| Textures - Entities    | Guardian                           | 0        |
+| Textures - Entities    | Guardian Beam                      | 0        |
+| Textures - Entities    | Guardian Elder                     | 0        |
+| Textures - Entities    | Hoglin                             | 0        |
+| Textures - Entities    | Horse                              | 0        |
+| Textures - Entities    | Illager                            | 0        |
+| Textures - Entities    | Iron Golem                         | 0        |
+| Textures - Entities    | Lead Knot                          | 0        |
+| Textures - Entities    | Llama                              | 0        |
+| Textures - Entities    | Minecart                           | 0        |
+| Textures - Entities    | Panda                              | 0        |
+| Textures - Entities    | Parrot                             | 0        |
+| Textures - Entities    | Phantom                            | 0        |
+| Textures - Entities    | Phantom Eyes                       | 0        |
+| Textures - Entities    | Pig                                | 0        |
+| Textures - Entities    | Piglin                             | 0        |
+| Textures - Entities    | Projectiles                        | 0        |
+| Textures - Entities    | Rabbit                             | 0        |
+| Textures - Entities    | Sheep                              | 0        |
+| Textures - Entities    | Shield                             | 0        |
+| Textures - Entities    | Shulker                            | 0        |
+| Textures - Entities    | Signs                              | 0        |
+| Textures - Entities    | Silverfish                         | 0        |
+| Textures - Entities    | Skeleton                           | 0        |
+| Textures - Entities    | Slime                              | 0        |
+| Textures - Entities    | Snow Golem                         | 0        |
+| Textures - Entities    | Spider                             | 0        |
+| Textures - Entities    | Spider Eyes                        | 0        |
+| Textures - Entities    | Squid                              | 0        |
+| Textures - Entities    | Strider                            | 0        |
+| Textures - Entities    | Trident                            | 0        |
+| Textures - Entities    | Trident Riptide                    | 0        |
+| Textures - Entities    | Turtle                             | 0        |
+| Textures - Entities    | Villager                           | 0        |
+| Textures - Entities    | Wandering Trader                   | 0        |
+| Textures - Entities    | Witch                              | 0        |
+| Textures - Entities    | Wither                             | 0        |
+| Textures - Entities    | Wolf                               | 0        |
+| Textures - Entities    | Zombie                             | 0        |
+| Textures - Entities    | Zombie Villager                    | 0        |
+| Textures - Environment | Clouds                             | 0        |
+| Textures - Environment | End Sky                            | 0        |
+| Textures - Environment | Moon Phases                        | 0        |
+| Textures - Environment | Rain                               | 0        |
+| Textures - Environment | Snow                               | 0        |
+| Textures - Environment | Sun                                | 0        |
+| Textures - Font        | Font                               | 0        |
+| Textures - GUI         | Accessibility                      | 0        |
+| Textures - GUI         | Advancements                       | 0        |
+| Textures - GUI         | Anvil                              | 0        |
+| Textures - GUI         | Bars                               | 0        |
+| Textures - GUI         | Beacon                             | 0        |
+| Textures - GUI         | Blast Furnace                      | 0        |
+| Textures - GUI         | Book                               | 0        |
+| Textures - GUI         | Brewing Stand                      | 0        |
+| Textures - GUI         | Cartography Table                  | 0        |
+| Textures - GUI         | Checkbox                           | 0        |
+| Textures - GUI         | Crafting Table                     | 0        |
+| Textures - GUI         | Demo Background                    | 0        |
+| Textures - GUI         | Dispenser                          | 0        |
+| Textures - GUI         | Enchanting Table                   | 0        |
+| Textures - GUI         | Furnace                            | 0        |
+| Textures - GUI         | Gamemode Switcher                  | 0        |
+| Textures - GUI         | Grindstone                         | 0        |
+| Textures - GUI         | Hopper                             | 0        |
+| Textures - GUI         | Horse                              | 0        |
+| Textures - GUI         | Icons                              | 0        |
+| Textures - GUI         | Inventory                          | 0        |
+| Textures - GUI         | Loom                               | 0        |
+| Textures - GUI         | Options Background                 | 0        |
+| Textures - GUI         | Recipe Book                        | 0        |
+| Textures - GUI         | Recipe Button                      | 0        |
+| Textures - GUI         | Resource Packs                     | 0        |
+| Textures - GUI         | Server Selection                   | 0        |
+| Textures - GUI         | Shulker Box                        | 0        |
+| Textures - GUI         | Smithing Table                     | 0        |
+| Textures - GUI         | Smoker                             | 0        |
+| Textures - GUI         | Spectator Widgets                  | 0        |
+| Textures - GUI         | Stats Icons                        | 0        |
+| Textures - GUI         | Stonecutter                        | 0        |
+| Textures - GUI         | Stream Indicator                   | 0        |
+| Textures - GUI         | Toasts                             | 0        |
+| Textures - GUI         | Villager                           | 0        |
+| Textures - GUI         | Widgets                            | 0        |
+| Textures - GUI         | World Selection                    | 0        |
+| Textures - Items       | Acacia Boat                        | 0        |
+| Textures - Items       | Acacia Door                        | 0        |
+| Textures - Items       | Acacia Sign                        | 0        |
+| Textures - Items       | Apple                              | 0        |
+| Textures - Items       | Armor Stand                        | 0        |
+| Textures - Items       | Arrow                              | 0        |
+| Textures - Items       | Baked Potato                       | 0        |
+| Textures - Items       | Bamboo                             | 0        |
+| Textures - Items       | Barrier                            | 0        |
+| Textures - Items       | Beef                               | 0        |
+| Textures - Items       | Beetroot                           | 0        |
+| Textures - Items       | Beetroot Seeds                     | 0        |
+| Textures - Items       | Beetroot Soup                      | 0        |
+| Textures - Items       | Bell                               | 0        |
+| Textures - Items       | Birch Boat                         | 0        |
+| Textures - Items       | Birch Door                         | 0        |
+| Textures - Items       | Birch Sign                         | 0        |
+| Textures - Items       | Black Dye                          | 0        |
+| Textures - Items       | Blaze Powder                       | 0        |
+| Textures - Items       | Blaze Rod                          | 0        |
+| Textures - Items       | Blue Dye                           | 0        |
+| Textures - Items       | Bone                               | 0        |
+| Textures - Items       | Bone Meal                          | 0        |
+| Textures - Items       | Book                               | 0        |
+| Textures - Items       | Bow                                | 0        |
+| Textures - Items       | Bow Pulling                        | 0        |
+| Textures - Items       | Bowl                               | 0        |
+| Textures - Items       | Bread                              | 0        |
+| Textures - Items       | Brewing Stand                      | 0        |
+| Textures - Items       | Brick                              | 0        |
+| Textures - Items       | Brown Dye                          | 0        |
+| Textures - Items       | Bucket                             | 0        |
+| Textures - Items       | Cake                               | 0        |
+| Textures - Items       | Campfire                           | 0        |
+| Textures - Items       | Carrot                             | 0        |
+| Textures - Items       | Carrot On A Stick                  | 0        |
+| Textures - Items       | Cauldron                           | 0        |
+| Textures - Items       | Chain                              | 0        |
+| Textures - Items       | Chainmail Boots                    | 0        |
+| Textures - Items       | Chainmail Chestplate               | 0        |
+| Textures - Items       | Chainmail Helmet                   | 0        |
+| Textures - Items       | Chainmail Leggings                 | 0        |
+| Textures - Items       | Charcoal                           | 0        |
+| Textures - Items       | Chest Minecart                     | 0        |
+| Textures - Items       | Chicken                            | 0        |
+| Textures - Items       | Chorus Fruit                       | 0        |
+| Textures - Items       | Clay Ball                          | 0        |
+| Textures - Items       | Clock                              | 0        |
+| Textures - Items       | Coal                               | 0        |
+| Textures - Items       | Cocoa Beans                        | 0        |
+| Textures - Items       | Cod                                | 0        |
+| Textures - Items       | Cod Bucket                         | 0        |
+| Textures - Items       | Command Block Minecart             | 0        |
+| Textures - Items       | Comparator                         | 0        |
+| Textures - Items       | Compass                            | 0        |
+| Textures - Items       | Cooked Beef                        | 0        |
+| Textures - Items       | Cooked Chicken                     | 0        |
+| Textures - Items       | Cooked Cod                         | 0        |
+| Textures - Items       | Cooked Mutton                      | 0        |
+| Textures - Items       | Cooked Porkchop                    | 0        |
+| Textures - Items       | Cooked Rabbit                      | 0        |
+| Textures - Items       | Cooked Salmon                      | 0        |
+| Textures - Items       | Cookie                             | 0        |
+| Textures - Items       | Creeper Banner Pattern             | 0        |
+| Textures - Items       | Crimson Door                       | 0        |
+| Textures - Items       | Crimson Sign                       | 0        |
+| Textures - Items       | Crossbow                           | 0        |
+| Textures - Items       | Crossbow Arrow                     | 0        |
+| Textures - Items       | Crossbow Firework                  | 0        |
+| Textures - Items       | Crossbow Pulling                   | 0        |
+| Textures - Items       | Cyan Dye                           | 0        |
+| Textures - Items       | Dark Oak Boat                      | 0        |
+| Textures - Items       | Dark Oak Door                      | 0        |
+| Textures - Items       | Dark Oak Sign                      | 0        |
+| Textures - Items       | Diamond                            | 0        |
+| Textures - Items       | Diamond Axe                        | 0        |
+| Textures - Items       | Diamond Boots                      | 0        |
+| Textures - Items       | Diamond Chestplate                 | 0        |
+| Textures - Items       | Diamond Helmet                     | 0        |
+| Textures - Items       | Diamond Hoe                        | 0        |
+| Textures - Items       | Diamond Horse Armor                | 0        |
+| Textures - Items       | Diamond Leggings                   | 0        |
+| Textures - Items       | Diamond Pickaxe                    | 0        |
+| Textures - Items       | Diamond Shovel                     | 0        |
+| Textures - Items       | Diamond Sword                      | 0        |
+| Textures - Items       | Dragon Breath                      | 0        |
+| Textures - Items       | Dried Kelp                         | 0        |
+| Textures - Items       | Egg                                | 0        |
+| Textures - Items       | Elytra                             | 0        |
+| Textures - Items       | Elytra Broken                      | 0        |
+| Textures - Items       | Emerald                            | 0        |
+| Textures - Items       | Empty Armor Slot Boots             | 0        |
+| Textures - Items       | Empty Armor Slot Chestplate        | 0        |
+| Textures - Items       | Empty Armor Slot Helmet            | 0        |
+| Textures - Items       | Empty Armor Slot Leggings          | 0        |
+| Textures - Items       | Empty Armor Slot Shield            | 0        |
+| Textures - Items       | Enchanted Book                     | 0        |
+| Textures - Items       | End Crystal                        | 0        |
+| Textures - Items       | Ender Eye                          | 0        |
+| Textures - Items       | Ender Pearl                        | 0        |
+| Textures - Items       | Experience Bottle                  | 0        |
+| Textures - Items       | Feather                            | 0        |
+| Textures - Items       | Fermented Spider Eye               | 0        |
+| Textures - Items       | Filled Map                         | 0        |
+| Textures - Items       | Filled Map Markings                | 0        |
+| Textures - Items       | Fire Charge                        | 0        |
+| Textures - Items       | Firework Rocket                    | 0        |
+| Textures - Items       | Firework Star                      | 0        |
+| Textures - Items       | Firework Star Overlay              | 0        |
+| Textures - Items       | Fishing Rod                        | 0        |
+| Textures - Items       | Fishing Rod Cast                   | 0        |
+| Textures - Items       | Flint                              | 0        |
+| Textures - Items       | Flint And Steel                    | 0        |
+| Textures - Items       | Flower Banner Pattern              | 0        |
+| Textures - Items       | Flower Pot                         | 0        |
+| Textures - Items       | Furnace Minecart                   | 0        |
+| Textures - Items       | Ghast Tear                         | 0        |
+| Textures - Items       | Glass Bottle                       | 0        |
+| Textures - Items       | Glistering Melon Slice             | 0        |
+| Textures - Items       | Globe Banner Pattern               | 0        |
+| Textures - Items       | Glowstone Dust                     | 0        |
+| Textures - Items       | Gold Ingot                         | 0        |
+| Textures - Items       | Gold Nugget                        | 0        |
+| Textures - Items       | Golden Apple                       | 0        |
+| Textures - Items       | Golden Axe                         | 0        |
+| Textures - Items       | Golden Boots                       | 0        |
+| Textures - Items       | Golden Carrot                      | 0        |
+| Textures - Items       | Golden Chestplate                  | 0        |
+| Textures - Items       | Golden Helmet                      | 0        |
+| Textures - Items       | Golden Hoe                         | 0        |
+| Textures - Items       | Golden Horse Armor                 | 0        |
+| Textures - Items       | Golden Leggings                    | 0        |
+| Textures - Items       | Golden Pickaxe                     | 0        |
+| Textures - Items       | Golden Shovel                      | 0        |
+| Textures - Items       | Golden Sword                       | 0        |
+| Textures - Items       | Gray Dye                           | 0        |
+| Textures - Items       | Green Dye                          | 0        |
+| Textures - Items       | Gunpowder                          | 0        |
+| Textures - Items       | Heart Of The Sea                   | 0        |
+| Textures - Items       | Honey Bottle                       | 0        |
+| Textures - Items       | Honeycomb                          | 0        |
+| Textures - Items       | Hopper                             | 0        |
+| Textures - Items       | Hopper Minecart                    | 0        |
+| Textures - Items       | Ink Sac                            | 0        |
+| Textures - Items       | Iron Axe                           | 0        |
+| Textures - Items       | Iron Boots                         | 0        |
+| Textures - Items       | Iron Chestplate                    | 0        |
+| Textures - Items       | Iron Door                          | 0        |
+| Textures - Items       | Iron Helmet                        | 0        |
+| Textures - Items       | Iron Hoe                           | 0        |
+| Textures - Items       | Iron Horse Armor                   | 0        |
+| Textures - Items       | Iron Ingot                         | 0        |
+| Textures - Items       | Iron Leggings                      | 0        |
+| Textures - Items       | Iron Nugget                        | 0        |
+| Textures - Items       | Iron Pickaxe                       | 0        |
+| Textures - Items       | Iron Shovel                        | 0        |
+| Textures - Items       | Iron Sword                         | 0        |
+| Textures - Items       | Item Frame                         | 0        |
+| Textures - Items       | Jungle Boat                        | 0        |
+| Textures - Items       | Jungle Door                        | 0        |
+| Textures - Items       | Jungle Sign                        | 0        |
+| Textures - Items       | Kelp                               | 0        |
+| Textures - Items       | Knowledge Book                     | 0        |
+| Textures - Items       | Lantern                            | 0        |
+| Textures - Items       | Lapis Lazuli                       | 0        |
+| Textures - Items       | Lava Bucket                        | 0        |
+| Textures - Items       | Lead                               | 0        |
+| Textures - Items       | Leather                            | 0        |
+| Textures - Items       | Leather Boots                      | 0        |
+| Textures - Items       | Leather Boots Overlay              | 0        |
+| Textures - Items       | Leather Chestplate                 | 0        |
+| Textures - Items       | Leather Chestplate Overlay         | 0        |
+| Textures - Items       | Leather Helmet                     | 0        |
+| Textures - Items       | Leather Helmet Overlay             | 0        |
+| Textures - Items       | Leather Horse Armor                | 0        |
+| Textures - Items       | Leather Leggings                   | 0        |
+| Textures - Items       | Leather Leggings Overlay           | 0        |
+| Textures - Items       | Light Blue Dye                     | 0        |
+| Textures - Items       | Light Gray Dye                     | 0        |
+| Textures - Items       | Lime Dye                           | 0        |
+| Textures - Items       | Lingering Potion                   | 0        |
+| Textures - Items       | Magenta Dye                        | 0        |
+| Textures - Items       | Magma Cream                        | 0        |
+| Textures - Items       | Map                                | 0        |
+| Textures - Items       | Melon Seeds                        | 0        |
+| Textures - Items       | Melon Slice                        | 0        |
+| Textures - Items       | Milk Bucket                        | 0        |
+| Textures - Items       | Minecart                           | 0        |
+| Textures - Items       | Mojang Banner Pattern              | 0        |
+| Textures - Items       | Mushroom Stew                      | 0        |
+| Textures - Items       | Music Disc 11                      | 0        |
+| Textures - Items       | Music Disc 13                      | 0        |
+| Textures - Items       | Music Disc Blocks                  | 0        |
+| Textures - Items       | Music Disc Cat                     | 0        |
+| Textures - Items       | Music Disc Chirp                   | 0        |
+| Textures - Items       | Music Disc Far                     | 0        |
+| Textures - Items       | Music Disc Mall                    | 0        |
+| Textures - Items       | Music Disc Mellohi                 | 0        |
+| Textures - Items       | Music Disc Pigstep                 | 0        |
+| Textures - Items       | Music Disc Stal                    | 0        |
+| Textures - Items       | Music Disc Strad                   | 0        |
+| Textures - Items       | Music Disc Wait                    | 0        |
+| Textures - Items       | Music Disc Ward                    | 0        |
+| Textures - Items       | Mutton                             | 0        |
+| Textures - Items       | Name Tag                           | 0        |
+| Textures - Items       | Nautilus Shell                     | 0        |
+| Textures - Items       | Nether Brick                       | 0        |
+| Textures - Items       | Nether Sprouts                     | 0        |
+| Textures - Items       | Nether Star                        | 0        |
+| Textures - Items       | Nether Wart                        | 0        |
+| Textures - Items       | Netherite Axe                      | 0        |
+| Textures - Items       | Netherite Boots                    | 0        |
+| Textures - Items       | Netherite Chestplate               | 0        |
+| Textures - Items       | Netherite Helmet                   | 0        |
+| Textures - Items       | Netherite Hoe                      | 0        |
+| Textures - Items       | Netherite Ingot                    | 0        |
+| Textures - Items       | Netherite Leggings                 | 0        |
+| Textures - Items       | Netherite Pickaxe                  | 0        |
+| Textures - Items       | Netherite Scrap                    | 0        |
+| Textures - Items       | Netherite Shovel                   | 0        |
+| Textures - Items       | Netherite Sword                    | 0        |
+| Textures - Items       | Oak Boat                           | 0        |
+| Textures - Items       | Oak Door                           | 0        |
+| Textures - Items       | Oak Sign                           | 0        |
+| Textures - Items       | Orange Dye                         | 0        |
+| Textures - Items       | Painting                           | 0        |
+| Textures - Items       | Paper                              | 0        |
+| Textures - Items       | Phantom Membrane                   | 0        |
+| Textures - Items       | Piglin Banner Pattern              | 0        |
+| Textures - Items       | Pink Dye                           | 0        |
+| Textures - Items       | Poisonous Potato                   | 0        |
+| Textures - Items       | Popped Chorus Fruit                | 0        |
+| Textures - Items       | Porkchop                           | 0        |
+| Textures - Items       | Potato                             | 0        |
+| Textures - Items       | Potion                             | 0        |
+| Textures - Items       | Potion Overlay                     | 0        |
+| Textures - Items       | Prismarine Crystals                | 0        |
+| Textures - Items       | Prismarine Shard                   | 0        |
+| Textures - Items       | Pufferfish                         | 0        |
+| Textures - Items       | Pufferfish Bucket                  | 0        |
+| Textures - Items       | Pumpkin Pie                        | 0        |
+| Textures - Items       | Pumpkin Seeds                      | 0        |
+| Textures - Items       | Purple Dye                         | 0        |
+| Textures - Items       | Quartz                             | 0        |
+| Textures - Items       | Rabbit                             | 0        |
+| Textures - Items       | Rabbit Foot                        | 0        |
+| Textures - Items       | Rabbit Hide                        | 0        |
+| Textures - Items       | Rabbit Stew                        | 0        |
+| Textures - Items       | Red Dye                            | 0        |
+| Textures - Items       | Redstone                           | 0        |
+| Textures - Items       | Repeater                           | 0        |
+| Textures - Items       | Rotten Flesh                       | 0        |
+| Textures - Items       | Ruby                               | 0        |
+| Textures - Items       | Saddle                             | 0        |
+| Textures - Items       | Salmon                             | 0        |
+| Textures - Items       | Salmon Bucket                      | 0        |
+| Textures - Items       | Scute                              | 0        |
+| Textures - Items       | Sea Pickle                         | 0        |
+| Textures - Items       | Seagrass                           | 0        |
+| Textures - Items       | Shears                             | 0        |
+| Textures - Items       | Shulker Shell                      | 0        |
+| Textures - Items       | Skull Banner Pattern               | 0        |
+| Textures - Items       | Slime Ball                         | 0        |
+| Textures - Items       | Snowball                           | 0        |
+| Textures - Items       | Soul Campfire                      | 0        |
+| Textures - Items       | Soul Lantern                       | 0        |
+| Textures - Items       | Spawn Egg                          | 0        |
+| Textures - Items       | Spawn Egg Overlay                  | 0        |
+| Textures - Items       | Spectral Arrow                     | 0        |
+| Textures - Items       | Spider Eye                         | 0        |
+| Textures - Items       | Splash Potion                      | 0        |
+| Textures - Items       | Spruce Boat                        | 0        |
+| Textures - Items       | Spruce Door                        | 0        |
+| Textures - Items       | Spruce Sign                        | 0        |
+| Textures - Items       | Stick                              | 0        |
+| Textures - Items       | Stone Axe                          | 0        |
+| Textures - Items       | Stone Hoe                          | 0        |
+| Textures - Items       | Stone Pickaxe                      | 0        |
+| Textures - Items       | Stone Shovel                       | 0        |
+| Textures - Items       | Stone Sword                        | 0        |
+| Textures - Items       | String                             | 0        |
+| Textures - Items       | Structure Void                     | 0        |
+| Textures - Items       | Sugar                              | 0        |
+| Textures - Items       | Sugar Cane                         | 0        |
+| Textures - Items       | Suspicious Stew                    | 0        |
+| Textures - Items       | Sweet Berries                      | 0        |
+| Textures - Items       | Tipped Arrow Base                  | 0        |
+| Textures - Items       | Tipped Arrow Head                  | 0        |
+| Textures - Items       | Tnt Minecart                       | 0        |
+| Textures - Items       | Totem Of Undying                   | 0        |
+| Textures - Items       | Trident                            | 0        |
+| Textures - Items       | Tropical Fish                      | 0        |
+| Textures - Items       | Tropical Fish Bucket               | 0        |
+| Textures - Items       | Turtle Egg                         | 0        |
+| Textures - Items       | Turtle Helmet                      | 0        |
+| Textures - Items       | Warped Door                        | 0        |
+| Textures - Items       | Warped Fungus On A Stick           | 0        |
+| Textures - Items       | Warped Sign                        | 0        |
+| Textures - Items       | Water Bucket                       | 0        |
+| Textures - Items       | Wheat                              | 0        |
+| Textures - Items       | Wheat Seeds                        | 0        |
+| Textures - Items       | White Dye                          | 0        |
+| Textures - Items       | Wooden Axe                         | 0        |
+| Textures - Items       | Wooden Hoe                         | 0        |
+| Textures - Items       | Wooden Pickaxe                     | 0        |
+| Textures - Items       | Wooden Shovel                      | 0        |
+| Textures - Items       | Wooden Sword                       | 0        |
+| Textures - Items       | Writable Book                      | 0        |
+| Textures - Items       | Written Book                       | 0        |
+| Textures - Items       | Yellow Dye                         | 0        |
+| Textures - Map         | Background                         | 0        |
+| Textures - Map         | Icons                              | 0        |
+| Textures - Misc        | Enchanted Item Glint               | 0        |
+| Textures - Misc        | Forcefield                         | 0        |
+| Textures - Misc        | Nausea                             | 0        |
+| Textures - Misc        | Pumpkin Blur                       | 0        |
+| Textures - Misc        | Shadow                             | 0        |
+| Textures - Misc        | Underwater                         | 0        |
+| Textures - Misc        | Unknown Pack                       | 0        |
+| Textures - Misc        | Unknown Server                     | 0        |
+| Textures - Misc        | Vignette                           | 0        |
+| Textures - Mob Effect  | Absorption                         | 0        |
+| Textures - Mob Effect  | Bad Omen                           | 0        |
+| Textures - Mob Effect  | Blindness                          | 0        |
+| Textures - Mob Effect  | Conduit Power                      | 0        |
+| Textures - Mob Effect  | Dolphins Grace                     | 0        |
+| Textures - Mob Effect  | Fire Resistance                    | 0        |
+| Textures - Mob Effect  | Glowing                            | 0        |
+| Textures - Mob Effect  | Haste                              | 0        |
+| Textures - Mob Effect  | Health Boost                       | 0        |
+| Textures - Mob Effect  | Hero of the Village                | 0        |
+| Textures - Mob Effect  | Hunger                             | 0        |
+| Textures - Mob Effect  | Instant Damage                     | 0        |
+| Textures - Mob Effect  | Instant Health                     | 0        |
+| Textures - Mob Effect  | Invisibility                       | 0        |
+| Textures - Mob Effect  | Jump Boost                         | 0        |
+| Textures - Mob Effect  | Levitation                         | 0        |
+| Textures - Mob Effect  | Luck                               | 0        |
+| Textures - Mob Effect  | Mining Fatigue                     | 0        |
+| Textures - Mob Effect  | Nausea                             | 0        |
+| Textures - Mob Effect  | Night Vision                       | 0        |
+| Textures - Mob Effect  | Poisonous Potato                   | 0        |
+| Textures - Mob Effect  | Regeneration                       | 0        |
+| Textures - Mob Effect  | Resistance                         | 0        |
+| Textures - Mob Effect  | Saturation                         | 0        |
+| Textures - Mob Effect  | Slow Falling                       | 0        |
+| Textures - Mob Effect  | Slowness                           | 0        |
+| Textures - Mob Effect  | Speed                              | 0        |
+| Textures - Mob Effect  | Strength                           | 0        |
+| Textures - Mob Effect  | Unluck                             | 0        |
+| Textures - Mob Effect  | Water Breathing                    | 0        |
+| Textures - Mob Effect  | Weakness                           | 0        |
+| Textures - Mob Effect  | Wither                             | 0        |
+| Textures - Models      | Chainmail                          | 0        |
+| Textures - Models      | Diamond                            | 0        |
+| Textures - Models      | Gold                               | 0        |
+| Textures - Models      | Iron                               | 0        |
+| Textures - Models      | Leather                            | 0        |
+| Textures - Models      | Netherite                          | 0        |
+| Textures - Models      | Piglin                             | 0        |
+| Textures - Models      | Turtle                             | 0        |
+| Textures - Paintings   | Alban                              | 0        |
+| Textures - Paintings   | Aztec                              | 0        |
+| Textures - Paintings   | Aztec2                             | 0        |
+| Textures - Paintings   | Back                               | 0        |
+| Textures - Paintings   | Bomb                               | 0        |
+| Textures - Paintings   | Burning Skull                      | 0        |
+| Textures - Paintings   | Bust                               | 0        |
+| Textures - Paintings   | Courbet                            | 0        |
+| Textures - Paintings   | Creebet                            | 0        |
+| Textures - Paintings   | Donkey Kong                        | 0        |
+| Textures - Paintings   | Fighters                           | 0        |
+| Textures - Paintings   | Graham                             | 0        |
+| Textures - Paintings   | Kebab                              | 0        |
+| Textures - Paintings   | Match                              | 0        |
+| Textures - Paintings   | Pigscene                           | 0        |
+| Textures - Paintings   | Plant                              | 0        |
+| Textures - Paintings   | Pointer                            | 0        |
+| Textures - Paintings   | Pool                               | 0        |
+| Textures - Paintings   | Sea                                | 0        |
+| Textures - Paintings   | Skeleton                           | 0        |
+| Textures - Paintings   | Skull And Roses                    | 0        |
+| Textures - Paintings   | Stage                              | 0        |
+| Textures - Paintings   | Sunset                             | 0        |
+| Textures - Paintings   | Void                               | 0        |
+| Textures - Paintings   | Wanderer                           | 0        |
+| Textures - Paintings   | Wasteland                          | 0        |
+| Textures - Paintings   | Wither                             | 0        |
+| Textures - Particles   | Angry                              | 0        |
+| Textures - Particles   | Big Smoke                          | 0        |
+| Textures - Particles   | Bubble                             | 0        |
+| Textures - Particles   | Bubble Pop                         | 0        |
+| Textures - Particles   | Critical Hit                       | 0        |
+| Textures - Particles   | Damage                             | 0        |
+| Textures - Particles   | Drip Fall                          | 0        |
+| Textures - Particles   | Drip Hang                          | 0        |
+| Textures - Particles   | Drip Land                          | 0        |
+| Textures - Particles   | Effect                             | 0        |
+| Textures - Particles   | Enchanted Hit                      | 0        |
+| Textures - Particles   | Explosion                          | 0        |
+| Textures - Particles   | Flame                              | 0        |
+| Textures - Particles   | Flash                              | 0        |
+| Textures - Particles   | Footprint                          | 0        |
+| Textures - Particles   | Generic                            | 0        |
+| Textures - Particles   | Glint                              | 0        |
+| Textures - Particles   | Glitter                            | 0        |
+| Textures - Particles   | Heart                              | 0        |
+| Textures - Particles   | Lava                               | 0        |
+| Textures - Particles   | Nautilus                           | 0        |
+| Textures - Particles   | Note                               | 0        |
+| Textures - Particles   | SGA                                | 0        |
+| Textures - Particles   | Soul                               | 0        |
+| Textures - Particles   | Soul Fire Flame                    | 0        |
+| Textures - Particles   | Spark                              | 0        |
+| Textures - Particles   | Spell                              | 0        |
+| Textures - Particles   | Splash                             | 0        |
+| Textures - Particles   | Sweep                              | 0        |
