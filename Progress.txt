@@ -2,8 +2,8 @@
 
 | Category               | Progress Percent |
 |------------------------|------------------|
-| Textures - Blocks      | 0.00%            |
-| Textures - Color Map   | 0.00%            |
+| Textures - Blocks      | 0.46%            |
+| Textures - Color Map   | 100.00%          |
 | Textures - Effects     | 0.00%            |
 | Textures - Entities    | 0.00%            |
 | Textures - Environment | 0.00%            |
@@ -16,7 +16,7 @@
 | Textures - Models      | 0.00%            |
 | Textures - Paintings   | 0.00%            |
 | Textures - Particles   | 0.00%            |
-| Grand Total            | 0.00%            |
+| Grand Total            | 0.41%            |
 
 # Detailed
 
@@ -161,7 +161,7 @@
 | Textures - Blocks      | Diamond Ore                        | 0        |
 | Textures - Blocks      | Diorite                            | 0        |
 | Textures - Blocks      | Diorite Polished                   | 0        |
-| Textures - Blocks      | Dirt                               | 0        |
+| Textures - Blocks      | Dirt                               | 1        |
 | Textures - Blocks      | Dispenser                          | 0        |
 | Textures - Blocks      | Dragon Egg                         | 0        |
 | Textures - Blocks      | Dried Kelp                         | 0        |
@@ -208,7 +208,7 @@
 | Textures - Blocks      | Granite                            | 0        |
 | Textures - Blocks      | Granite Polished                   | 0        |
 | Textures - Blocks      | Grass                              | 0        |
-| Textures - Blocks      | Grass Block                        | 0        |
+| Textures - Blocks      | Grass Block                        | 1        |
 | Textures - Blocks      | Grass Block Snow                   | 0        |
 | Textures - Blocks      | Grass Path                         | 0        |
 | Textures - Blocks      | Gravel                             | 0        |
@@ -459,8 +459,8 @@
 | Textures - Blocks      | Wool Red                           | 0        |
 | Textures - Blocks      | Wool White                         | 0        |
 | Textures - Blocks      | Wool Yellow                        | 0        |
-| Textures - Color Map   | Foliage                            | 0        |
-| Textures - Color Map   | Grass                              | 0        |
+| Textures - Color Map   | Foliage                            | 1        |
+| Textures - Color Map   | Grass                              | 1        |
 | Textures - Effects     | Dither                             | 0        |
 | Textures - Entities    | Armor Stand                        | 0        |
 | Textures - Entities    | Arrow                              | 0        |
